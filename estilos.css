@@ -1,0 +1,47 @@
+.img-thumbnail{
+    width: 250px;
+    height: 350px;
+}
+
+.contenedortexto{
+    width: 100%;
+    height: 400px;
+    margin-top:50px ;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.redessociales{
+    width: 100%;
+    height: 400px;
+    background-color: #9bc2a5;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column; 
+    margin-top: 40px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+
+}
+
+.Insta {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+}
+
+.Face {
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+}
+
+.Wapp {
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+}
