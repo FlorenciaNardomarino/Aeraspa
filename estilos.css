@@ -1,3 +1,5 @@
+/*-------------------Index---------------------*/
+
 .img-thumbnail{
     width: 250px;
     height: 350px;
@@ -8,6 +10,7 @@
     height: 400px;
     margin-top:50px ;
     margin-bottom: 50px;
+    padding: 15px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -44,4 +47,30 @@
     width: 70px;
     height: 70px;
     margin: 10px;
+}
+/*-------------------Servicios---------------------*/
+
+.txtservicios{
+display: flex;
+justify-content: center;
+margin-top: 50px;
+}
+
+.card{
+    margin-left: 40px;
+    margin-bottom: 60px;
+}
+
+.contenedorcards{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+flex-wrap: wrap;
+margin-top: 60px;
+}
+
+.contenedorcards img{
+    width: 287px;
+    height: 200px;
 }
